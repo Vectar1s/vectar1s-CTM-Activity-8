@@ -1,1 +1,13 @@
-
+[2026-08-27 21:27:02] Hostname changed to Vectar1s
+[2026-08-27 21:27:41] IP address set to 192.168.0.21
+[2026-08-27 21:35:08] Attack succeeded: Penetration attempt
+[2026-08-27 21:36:16] Attack succeeded: Port scan detected
+[2026-08-27 21:36:30] Attack succeeded: Brute force login attempt
+[2026-08-27 21:37:08] Attack succeeded: Malware upload attempt on FTP
+[2026-08-27 21:37:31] Attack succeeded: DDoS on HTTP service
+[2026-08-27 21:40:35] ssh service stopped
+[2026-08-27 21:41:43] http service stopped
+[2026-08-27 21:43:09] ftp service stopped
+[2026-08-27 21:44:31] Firewall active
+[2026-08-27 21:45:36] http service started
+[2026-08-27 21:46:01] Quiz mode completed with score: 35
